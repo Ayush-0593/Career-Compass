@@ -161,52 +161,6 @@ Recommendations include institutes such as:
 
 ---
 
-# 📂 Project Structure
-
-```text
-CareerCompass-India/
-│
-├── index.html
-├── README.md
-├── LICENSE
-│
-├── assets/
-│   ├── banner.png
-│   ├── screenshots/
-│   ├── icons/
-│   └── images/
-│
-└── favicon.ico
-```
-
----
-
-# 🚀 Installation
-
-```bash
-git clone https://github.com/yourusername/CareerCompass-India.git
-
-cd CareerCompass-India
-```
-
-Open
-
-```text
-index.html
-```
-
-in your browser.
-
-No installation required.
-
-No frameworks.
-
-No npm packages.
-
-No build tools.
-
----
-
 # 📸 Screenshots
 
 ## 🏠 Home
