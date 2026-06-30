@@ -1,7 +1,6 @@
 <div align="center">
 
-
-<img src="https://chatgpt.com/s/m_6a43ffacc8b88191b5af4287d7c97508" alt="CareerCompass India Banner" width="100%"/>
+  <img src="assets/banner.png" alt="CareerCompass India Banner" width="100%"/>
 
 # 🎓 CareerCompass India
 
